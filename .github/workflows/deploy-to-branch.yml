@@ -52,11 +52,7 @@ jobs:
       run: |
         yarn build
 
-        mkdir BUILD
-        cp -r public BUILD/public
-        cp -r package.json BUILD/package.json
-        cp -r yarn.lock BUILD/yarn.lock
-        mv .next BUILD/.next
+        mv out BUILD
 
     # Synchronize & push BUILD directory to deployment branch
     - name: Configure Git informations

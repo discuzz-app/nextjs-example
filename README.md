@@ -1,3 +1,5 @@
+# NextJS integration with Discuzz
+
 This is a [Next.js](https://nextjs.org/) example with integration with [Discuzz](https://github.com/discuzz-app/discuzz).
 
 ## Demo
