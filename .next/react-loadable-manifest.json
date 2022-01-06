@@ -1,0 +1,32 @@
+{
+  "index.js -> @discuzz/composer-plaintext": {
+    "id": 3897,
+    "files": [
+      "static/chunks/897.a07ac1f240fc6a14.js"
+    ]
+  },
+  "index.js -> @discuzz/discuzz": {
+    "id": 3598,
+    "files": [
+      "static/chunks/7112840a.1c5080b69d1057cf.js",
+      "static/chunks/0c2b6648.7b06fc674e05e66b.js",
+      "static/chunks/745.9df92751f59a40f0.js",
+      "static/chunks/598.bd3b6252dc508ad8.js"
+    ]
+  },
+  "index.js -> @discuzz/locale-en": {
+    "id": 7196,
+    "files": [
+      "static/chunks/7112840a.1c5080b69d1057cf.js",
+      "static/chunks/0c2b6648.7b06fc674e05e66b.js",
+      "static/chunks/745.9df92751f59a40f0.js",
+      "static/chunks/196.1d1df91c44863cdb.js"
+    ]
+  },
+  "index.js -> @discuzz/viewer-plaintext": {
+    "id": 7232,
+    "files": [
+      "static/chunks/232.3ca834516565a99c.js"
+    ]
+  }
+}
