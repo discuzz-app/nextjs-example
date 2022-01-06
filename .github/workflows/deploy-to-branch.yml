@@ -47,11 +47,6 @@ jobs:
       run: |
         yarn install --prefer-offline --pure-lockfile --cache-folder .yarn --modules-folder node_modules
 
-    # Test 
-    - name: Test 
-      run: |
-        yarn test
-
     # Build application into BUILD directory
     - name: Build application
       run: |
