@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@discuzz/composer-plaintext": "^1.11.2",
-    "@discuzz/discuzz": "^1.11.2",
-    "@discuzz/locale-en": "^1.11.2",
-    "@discuzz/viewer-plaintext": "^1.11.2",
+    "@discuzz/auth-firebase": "^1.11.15",
+    "@discuzz/data-firestore": "^1.11.15",
+    "@discuzz/discuzz": "^1.11.15",
+    "@discuzz/locale-en": "^1.11.15",
     "date-fns": "^2.28.0",
-    "immer": "^9.0.7",
+    "firebase": "^9.6.2",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2"

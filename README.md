@@ -11,8 +11,6 @@ You can check deployed site here [https://discuzz-app.github.io/nextjs-example/]
 Run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
