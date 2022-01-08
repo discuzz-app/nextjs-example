@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[232],{7232:function(e,n,t){var r,u=t(7294),a=(r=u)&&"object"==typeof r&&"default"in r?r.default:r;e.exports=function(e){var n=e.children.split("\n").reduce((function(e,n,t){return e.push(a.createElement(u.Fragment,{key:t},n)),e.push(a.createElement("br",{key:t+"_br"})),e}),[]);return a.createElement(u.Fragment,null,n)}}}]);
