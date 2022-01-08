@@ -1,10 +1,7 @@
-import lazy from 'next/dynamic'
-import { Discuzz, loadService } from '@discuzz/discuzz'
-
-const LocaleProviderEn = lazy(() => import('@discuzz/locale-en'), { ssr: false })
-
-const AuthFirebase = loadService(() => import('@discuzz/auth-firebase'))
-const DataFirestore = loadService(() => import('@discuzz/data-firestore'))
+import { Discuzz } from '@discuzz/discuzz'
+import LocaleProviderEn from '@discuzz/locale-en'
+import AuthFirebase from '@discuzz/auth-firebase'
+import DataFirestore from '@discuzz/data-firestore'
 
 export default function Index() {
   return (
